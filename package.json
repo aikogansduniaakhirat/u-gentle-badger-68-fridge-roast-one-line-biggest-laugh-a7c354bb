@@ -1,0 +1,11 @@
+{
+  "name": "u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One line roasting a smart fridge, 200 characters max, written to /output/entry.txt.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
